@@ -9,3 +9,9 @@
 .firstline{
     column-rule: 15px solid blue;
 }
+.secondline{
+    column-rule: 15px solid red;
+}
+.thirdline{
+    column-rule: 15px solid yellowgreen;
+}
